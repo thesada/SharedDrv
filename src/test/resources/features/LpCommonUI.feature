@@ -1,4 +1,4 @@
-@common
+@common @collar
 Feature: LitPro Common UI
   As a LitPro User
   I should have access to Literacy Pro
